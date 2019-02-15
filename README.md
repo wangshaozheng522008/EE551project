@@ -7,7 +7,7 @@
 · Visualized Go board.     
 · Automatically judge the result.     
 # TODO
-· Repent function.     
+· Repent function that means every player have a chance to redo one step.     
 · Player can choose to vs AI.     
 # AUTHOR
 Shaozheng Wang
