@@ -2,12 +2,13 @@
  This is my python project of a Gomoku game.|Author: Shaozheng Wang
 # PROPOSALS
  This project is a Gomoku game which is also called  Five in a Row. The project can provide a visual interface of the Go board. Users can play with black and white stones on the board. When one player complete five same color stones in a row, the game over.
+ After running the chess.py file, you can choose two game mode.First mode is people vs people by inputting "1". You can also input "2" and run the mode that vs AI.
 # FEATURES
 · Allow two players to compete.     
 · Visualized Go board.     
-· Automatically judge the result.     
+· Automatically judge the result.  
+· The Player can choose to vs AI. 
 # TODO
-· Repent function that means every player have a chance to redo one step.     
-· Player can choose to vs AI.     
+· Repent function that means every player have a chance to redo one step.         
 # AUTHOR
 Shaozheng Wang
